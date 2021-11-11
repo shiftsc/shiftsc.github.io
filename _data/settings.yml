@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: USC’s student-led platform for human-centered and socially responsible technology.
+  footer_tagline: 'USC’s student-led platform for human-centered and socially responsible technology.'
 
 hero_settings:
   overlay_opacity: 0.8
