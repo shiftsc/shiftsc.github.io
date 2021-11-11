@@ -61,8 +61,8 @@ social_settings:
   linkedin_url: 'https://www.linkedin.com/company/shiftsc/'
 
 color_settings:
-  background_color: '#B082E0'
-  background_alt_color: '#F4F4F4'
+  background_color: '#F4F4F4'
+  background_alt_color: '#B082E0'
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
