@@ -1,7 +1,7 @@
-site: Personal Jekyll Theme
+site: Shift SC
 
-url: 
-baseurl: 
+url: https://shiftsc.org
+#baseurl: 
 
 collections:
   pages:
