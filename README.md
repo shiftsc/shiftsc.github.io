@@ -1,1 +1,0 @@
-# shiftsc.github.io
