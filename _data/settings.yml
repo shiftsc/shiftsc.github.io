@@ -69,11 +69,11 @@ color_settings:
   accent_color: '#AAE5C8'
   border_color: '#dddddd'
   hero_background_color: '#F4F4F4' #originally 132930
-  hero_text_color: '#ffffff'
+  hero_text_color: '#AAE5C8'
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">' #don't have arial rounded mt bold
   title_font: '"Muli", sans-serif'
   body_font: '"Muli", sans-serif'
   regular_weight: 400
