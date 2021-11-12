@@ -1,32 +1,16 @@
 ---
-title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
+title: About Shift SC
+subtitle: subtitle.
+description: description.
 featured_image: /images/demo/about.jpg
 ---
 
-## Features
+## Our Mission
 
-We've packed Personal full of powerful features to help showcase your work:
+We are a community of designers, builders, thinkers, and educators driving the shift towards a technological future better aligned with human values. Through a diverse set of campus initiatives, we aim to create opportunities for conversation and action around the social implications and ethical issues of technology.
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+By hosting symposiums with esteemed faculty and putting on Digital Well-Being Workshops to improve student relationships with technology, we hope to draw a diverse set of attendees to our events. And our goal to create a Science and Technology Lab, as well as an AI Ethics Curriculum, Shift SC is ready to reform our campus' understanding of technology at the humane level. Time to be a part of this change. 
 
-## Get Personal
+## Join Us
 
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Apply Now</a>
