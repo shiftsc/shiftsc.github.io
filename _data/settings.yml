@@ -21,7 +21,7 @@ footer_settings:
   footer_tagline: 'USC’s student-led platform for human-centered and socially responsible technology.'
 
 hero_settings:
-  overlay_opacity: 1.0
+  overlay_opacity: 1.0 #originially 0.8
 
 post_settings:
   grid_spacing: 10
