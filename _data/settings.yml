@@ -1,19 +1,21 @@
 basic_settings:
   site_title: Shift SC
-  favicon_image: '/images/SHIFTSC_LOGO-01.png'
+  favicon_image: '/images/arrow-logo/SHIFTSC_LOGO-01.png'
 
 header_settings:
-  logo_image: 
-  logo_width: 200
+  logo_image: '/images/arrow-logo/SHIFTSC_LOGO-09.png'
+  logo_width: 250
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Home'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Initiatives'
+      url: '/initiatives'
     - title: 'About'
       url: '/about'
+    - title: 'Blog'
+      url: '/blog/'
     - title: 'Contact'
       url: '/contact'
 
@@ -85,9 +87,9 @@ font_settings:
     weight: 700
     letter_spacing: -0.02
   menu:
-    small_size: 30
-    medium_size: 15
-    large_size: 17
+    small_size: 20
+    medium_size: 20
+    large_size: 21
     weight: 600
     letter_spacing: 0
   h1:
