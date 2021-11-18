@@ -68,16 +68,18 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#AAE5C8'
+  accent_color: '#97CCB1'
   border_color: '#dddddd'
   hero_background_color: '#F4F4F4' #originally 132930
   hero_text_color: '#AAE5C8'
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">' #don't have arial rounded mt bold
-  title_font: '"Muli", sans-serif'
-  body_font: '"Muli", sans-serif'
+  font_embed: '<link rel="preconnect" href="https://fonts.googleapis.com"> 
+              <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+              <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">'
+  title_font: '"Varela Round", sans-serif'
+  body_font: '"Varela Round", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
