@@ -9,7 +9,16 @@ We are a community of designers, builders, thinkers, and educators driving the s
 
 Our executive board is composed of 10 motivated students from diverse areas of study. We are working to create a space where discourse surrounding humane technology is both welcomed and celebrated. Check out our members below! And feel free to reach out to the team with any questions, concerns, or thoughts about our program.
 
+<div class="gallery" data-columns="3">
+	<img src="/images/socials/boba.jpeg">
+	<img src="/images/socials/game_night.jpg">
+	<img src="/images/socials/muddy_tofu.jpg">
+	<img src="/images/socials/pumpkin_painting.jpg">
+    <img src="/images/socials/tennis.jpg">
+</div>
+
 ## Our Core Team
+
 ##### Adam - President
 bio + image
 ##### John - VP of Projects
