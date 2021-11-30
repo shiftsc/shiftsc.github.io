@@ -2,7 +2,7 @@
 title: Contact Us
 subtitle: Sign up for our newsletter, apply to our club, and join our team today!
 description: Sign up for our newsletter, apply to our club, and join our team today!
-featured_image: /images/demo/contact.jpg
+featured_image: /images/swirl-logo/SWIRL_swirl.png
 ---
 
 {% include contact-form.html %}
