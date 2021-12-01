@@ -12,11 +12,11 @@ menu_settings:
       url: '/'
     - title: 'Initiatives'
       url: '/initiatives'
-    - title: 'About'
-      url: '/about'
+    - title: 'Family'
+      url: '/family'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Contact'
+    - title: 'APPLY NOW'
       url: '/contact'
 
 footer_settings:

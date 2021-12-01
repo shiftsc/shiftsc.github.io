@@ -1,12 +1,9 @@
 ---
-title: 'Our Mission & Members'
-subtitle: 'Shift SC'
-date: 2021-11-11 00:00:00
-description: Shift SC is USC’s student-led platform for human-centered and socially responsible technology. 
+title: 'Our Shift Family'
+subtitle: '[Shifties]'
+description: We are a community of designers, builders, thinkers, and educators driving the shift towards a technological future better aligned with human values.
 featured_image: '/images/arrow-logo/SHIFTSC_LOGO-01.png'
 ---
-
-We are a community of designers, builders, thinkers, and educators driving the shift towards a technological future better aligned with human values. Through a diverse set of campus initiatives, we aim to create opportunities for conversation and action around the social implications and ethical issues of technology.
 
 Our executive board is composed of 10 motivated students from diverse areas of study. We are working to create a space where discourse surrounding humane technology is both welcomed and celebrated. Check out our members below! And feel free to reach out to the team with any questions, concerns, or thoughts about our program.
 
@@ -18,7 +15,6 @@ Our executive board is composed of 10 motivated students from diverse areas of s
     <img src="/images/socials/tennis.jpg">
 </div>
 
-## Our Core Team
 ##### Adam - President
 bio + image
 ##### John - VP of Projects
@@ -28,7 +24,6 @@ bio+image
 ##### Annaka - VP of Operations
 bio+image
 
-## Our Communications Team
 ##### Kourosh (Kory) - VP of Communications
 bio+image
 ##### Pablo - VP of Marketing
@@ -36,7 +31,6 @@ bio+image
 ##### Jayden - VP of Graphics
 bio+image
 
-## Our Project Directors
 ##### Caroline
 bio+image
 ##### Jenny
