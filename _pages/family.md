@@ -37,7 +37,3 @@ bio+image
 bio+image
 ##### Chely
 bio+image
-
-## Join Us
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Apply Now</a>
