@@ -10,10 +10,10 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
-    - title: 'Initiatives'
-      url: '/initiatives'
     - title: 'Family'
       url: '/family'
+    - title: 'Initiatives'
+      url: '/initiatives'
     - title: 'Blog'
       url: '/blog/'
     - title: 'APPLY NOW'
