@@ -2,7 +2,7 @@
 title: APPLY NOW
 subtitle: Sign up for our newsletter, apply to our club, and join our team today!
 description: Sign up for our newsletter, apply to our club, and join our team today!
-#featured_image: /images/swirl-logo/SWIRL_swirl.png
+featured_image: /images/socials/muddy_tofu.jpg
 ---
 
 ## Subscribe to the Shift SC Newsletter
@@ -51,5 +51,11 @@ description: Sign up for our newsletter, apply to our club, and join our team to
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-## Join the Shift SC Family
+<br />
+<center>
+<h2>Join the Shift SC Family</h2>
+</center>
+<br />
+<center>
 <a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Apply Now</a>
+</center>

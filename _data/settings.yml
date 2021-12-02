@@ -71,7 +71,7 @@ color_settings:
   accent_color: '#97CCB1'
   border_color: '#dddddd'
   hero_background_color: '#F4F4F4' #originally 132930
-  hero_text_color: '#97CCB1'
+  hero_text_color: '#B082E0'
   error_color: '#D64541'
 
 font_settings:

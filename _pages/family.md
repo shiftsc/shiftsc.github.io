@@ -14,17 +14,18 @@ Our executive board is composed of 10 motivated students from diverse areas of s
     <img src="/images/socials/tennis.jpg">
 </div>
 
-Check out each member of the executive board below! 
-
+Check out each member of the executive board below! The projects you'll see directed by some of our members are described on the [Initiatives](https://shiftsc.org/initiatives) page (click to learn more). <br />
+<br />
 <div class="row">
   <div class="column">
     <img src="/images/members/adam.jpg" alt="Adam Novak" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/members/chely.jpeg" alt="Chely Fernandez" style="width:100%">
+    <img src="/images/members/temp.png" 
+    alt="John Heo" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/members/jenny.JPG" alt="Jenny Guo" style="width:100%">
+    <img src="/images/members/rachel_amir.jpg" alt="Jenny Guo" style="width:100%">
   </div>
 </div>
 
@@ -39,42 +40,133 @@ Check out each member of the executive board below!
   </div>
   <div class="column">
     <center>
+    <h3>John Heo</h3>
+    </center>
+    <center>
+      <p> Vice President of Projects </p>
+    </center>
+  </div>
+  <div class="column">
+    <center>
+    <h3>Rachel.Amir Chatman</h3>
+    </center>
+    <center>
+      <p> Vice President of Community </p>
+    </center>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/images/members/temp.png" alt="Annaka Lee" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/members/kory.jpg" 
+    alt="Kory Arfania" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/members/temp.png" alt="Jayden Kang" style="width:100%">
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <center>
+    <h3>Annaka Lee</h3>
+    </center>
+    <center>
+      <p> Vice President of Recruitment </p>
+    </center>
+  </div>
+  <div class="column">
+    <center>
+    <h3>Kory Arfania</h3>
+    </center>
+    <center>
+      <p> Vice President of Communications </p>
+    </center>
+  </div>
+  <div class="column">
+    <center>
+    <h3>Jayden Kang</h3>
+    </center>
+    <center>
+      <p> Vice President of Graphics </p>
+    </center>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/images/members/temp.png" alt="Pablo Coen-Pirani" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/members/caroline.jpeg" 
+    alt="Caroline Kenney" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/members/chely.jpeg" alt="Chely Fernandez" style="width:100%">
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <center>
+    <h3>Pablo Coen-Pirani</h3>
+    </center>
+    <center>
+      <p> Vice President of Marketing </p>
+    </center>
+  </div>
+  <div class="column">
+    <center>
+    <h3>Caroline Kenney</h3>
+    </center>
+    <center>
+      <p> FIX and Tech4Good Symposium Director </p>
+    </center>
+  </div>
+  <div class="column">
+    <center>
     <h3>Chely Fernandez</h3>
     </center>
     <center>
-      <p> Well-Being Workshop Lead </p>
+      <p> Well-Being Workshop Director </p>
     </center>
-
   </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/images/members/jenny.JPG" alt="Jenny Guo" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/members/temp.png" 
+    alt="Future Shftie" style="width:100%">
+  </div>
+</div>
+
+<div class="row">
   <div class="column">
     <center>
     <h3>Jenny Guo</h3>
     </center>
     <center>
-      <p> Project Lead </p>
+      <p> STS Lab Director </p>
     </center>
   </div>
-</div>
+  <div class="column">
+    <center>
+    <h3>Future Shiftie</h3>
+    </center>
+    <center>
+      <p> You too can join our family! Check the APPLY NOW tab to learn more. </p>
+    </center>
+  </div>
+</div> 
+<br />
 
-##### Adam - President
-bio + image
-##### John - VP of Projects
-bio+image
-##### Rachel.Amir - VP of Community
-bio+image
-##### Annaka - VP of Operations
-bio+image
-
-##### Kourosh (Kory) - VP of Communications
-bio+image
-##### Pablo - VP of Marketing
-bio+image
-##### Jayden - VP of Graphics
-bio+image
-
-##### Caroline
-bio+image
-##### Jenny
-bio+image
-##### Chely
-bio+image
+<center>
+<h2> The Shiftie Experience </h2>
+</center>
+*blurb*
