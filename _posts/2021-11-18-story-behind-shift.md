@@ -26,7 +26,9 @@ All the tech hype crowds out the most important topics:
 
 Just as these concerns became especially predominant for me, I decided to act on my long-standing interest in mindfulness by [staying at a Buddhist monastery last summer.](https://adamvnovak.medium.com/three-months-of-meditation-and-monkhood-how-disciplined-self-observation-can-make-you-a-better-44e5e33498ee) Living as a monk, I embarked on several silent 10-day Vipassana meditation courses and committed many hours to mindful service. The combination of an aescetic lifestyle, deep meditation, and altruistic teachings slowly shifted my perspective on tech. My anxious worries slowly melted away; what filled the gap was a *hope* for a technological future better aligned with human values and a *commitment* to driving that shift.
 
+<blockquote>
 Ultimately, human well-being and societal welfare must be at the center of how we innovate. Technological progress should not purely be measured by efficiency and convenience but also by quality of life—both how that progress *adds* to it and *subtracts* from it. We need to be more intentional with how we shape and govern the digital tools that now seem to shape and govern our lives.
+</blockquote>
 
 I felt drawn to engage further in these conversations but wasn't quite sure where or how to. Not having any friends in this space, I sent out a slew of cold emails and LinkedIn DMs (alas, how helpful the internet can be!). I was fortunate enough to meet John, a USC student, and Professor Warford, a Viterbi Professor, who similarly noticed the lack of attention given to social issues stemming from tech.
 
