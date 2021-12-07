@@ -12,7 +12,7 @@ description: The intitiatives Shift SC puts on to promote human-centered and soc
 
 	<div class="wrap">
 
-		<h1>Initiatives.md, an actual page</h1>
+		<h1>Initiatives.md, an actual page yuh</h1>
 		<p>This is how we do it babyyyy</p>
 
 	</div>
