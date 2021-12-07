@@ -25,25 +25,21 @@ featured_image: /images/swirl-logo/SWIRL_swirl.png
 
 	<div class="wrap">
 
-		{% for page in site.pages reversed %}
-
 		<article class="post">
 
 			<div class="post__image-wrap">
-				<div class="post__image" style="background-image: url({{ post.featured_image | relative_url }})"></div>
+				<div class="post__image" style="background-image: url({{ page.featured_image | relative_url }})"></div>
 			</div>
 
 			<div class="post__content-wrap">
 				<div class="post__content">
-					<h2 class="post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-					<p class="post__subtitle">{{ post.subtitle }}</p>
-					<p class="post__description">{{ post.description }}</p>
+					<h2 class="post__title"><a href="shiftsc.org">howdy</a></h2>
+					<p class="post__subtitle">subtitle/p>
+					<p class="post__description">descrip</p>
 				</div>
 			</div>
 
 		</article>
-
-		{% endfor %}
 
 	</div>
 
