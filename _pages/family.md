@@ -8,7 +8,7 @@ Our executive board is composed of 10 motivated students from diverse areas of s
 
 asdfasdf
   
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
 	<img src="/images/socials/boba.jpeg">
 	<img src="/images/socials/game_night.jpg">
 	<img src="/images/socials/muddy_tofu.jpg">
