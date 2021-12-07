@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Family'
       url: '/family'
     - title: 'Initiatives'
-      url: '/project'
+      url: '/initiatives'
     - title: 'Blog'
       url: '/blog/'
     - title: 'APPLY NOW'
