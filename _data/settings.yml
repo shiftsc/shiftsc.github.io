@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Shift SC asdf
+  site_title: Shift SC
   favicon_image: '/images/arrow-logo/SHIFTSC_LOGO-01.png'
 
 header_settings:
@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Family'
       url: '/family'
     - title: 'Initiatives'
-      url: '/initiatives'
+      url: '/project'
     - title: 'Blog'
       url: '/blog/'
     - title: 'APPLY NOW'
