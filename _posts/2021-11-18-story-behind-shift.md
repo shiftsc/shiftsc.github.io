@@ -1,7 +1,7 @@
 ---
-title: 'The Story Behind Shift SC'
+title: 'The Story Behind Shift'
 date: 2021-11-18 00:00:00
-description: Adam Novak
+description: What exactly was the inspiration behind Shift SC?
 author: Adam Novak
 featured_image: '/images/demo/demo-square.jpg'
 ---
