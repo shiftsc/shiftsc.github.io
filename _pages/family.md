@@ -5,6 +5,8 @@ description: We are a community of designers, builders, thinkers, and educators 
 featured_image: '/images/arrow-logo/SHIFTSC_LOGO-01.png'
 ---
 Our executive board is composed of 10 motivated students from diverse areas of study. We are working to create a space where discourse surrounding humane technology is both welcomed and celebrated.
+
+asdfasdf
   
 <div class="gallery" data-columns="3">
 	<img src="/images/socials/boba.jpeg">
