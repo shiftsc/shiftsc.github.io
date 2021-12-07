@@ -1,6 +1,6 @@
 ---
-title: 'Our Shift Family'
-subtitle: '[Shifties]'
+title: 'The Shift Family'
+subtitle: ''
 description: We are a community of designers, builders, thinkers, and educators driving the shift towards a technological future better aligned with human values.
 featured_image: '/images/arrow-logo/SHIFTSC_LOGO-01.png'
 ---
