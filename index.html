@@ -25,9 +25,9 @@ featured_image: /images/swirl-logo/SWIRL_swirl.png
 
 	<div class="wrap">
 
-		{% for project in site.projects reversed %}
+		{% for page in site.pages reversed %}
 
-		<article class="post">
+		<article class="page">
 
 			<div class="post__image-wrap">
 				<div class="post__image" style="background-image: url({{ project.featured_image | relative_url }})"></div>

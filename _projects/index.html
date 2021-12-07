@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Projectzzzz
-description: Technology, ethics, humanity, liveliness, and more.
+title: Initiatives
+description: The intitiatives Shift SC puts on to promote human-centered and socially responsible tech at USC.
 ---
 
 <section class="hero hero--single">
@@ -12,8 +12,8 @@ description: Technology, ethics, humanity, liveliness, and more.
 
 	<div class="wrap">
 
-		<h1>What Shift has to say...</h1>
-		<p>Technology, ethics, humanity, liveliness, and more. Written by yours truly.</p>
+		<h1>Initiatives</h1>
+		<p>This is how we do it babyyyy</p>
 
 	</div>
 
@@ -23,19 +23,19 @@ description: Technology, ethics, humanity, liveliness, and more.
 
 	<div class="wrap">
 
-		{% for post in paginator.posts %}
+		{% for project in site.projects reversed %}
 
 		<article class="post">
 
 			<div class="post__image-wrap">
-				<div class="post__image" style="background-image: url({{ post.featured_image | relative_url }})"></div>
+				<div class="post__image" style="background-image: url({{ project.featured_image | relative_url }})"></div>
 			</div>
 
 			<div class="post__content-wrap">
 				<div class="post__content">
-					<h2 class="post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-					<p class="post__subtitle">{{ post.subtitle }}</p>
-					<p class="post__description">{{ post.description }}</p>
+					<h2 class="post__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
+					<p class="post__subtitle">{{ project.subtitle }}</p>
+					<p class="post__description">{{ project.description }}</p>
 				</div>
 			</div>
 
@@ -46,22 +46,3 @@ description: Technology, ethics, humanity, liveliness, and more.
 	</div>
 
 </section>
-
-{% if paginator.total_pages > 1 %}
-
-<section class="pagination">
-
-	<div class="wrap">
-
-		{% if paginator.previous_page %}
-		<a href="{{ paginator.previous_page_path | relative_url }}" class="button pagination__prev"><i class="fa fa-arrow-left" aria-hidden="true"></i> <span>Newer Posts</span></a>
-		{% endif %}
-		{% if paginator.next_page %}
-		<a href="{{ paginator.next_page_path | relative_url }}" class="button pagination__next"><span>Older Posts</span> <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-		{% endif %}
-
-	</div>
-
-</section>
-
-{% endif %}
