@@ -2,6 +2,7 @@
 title: 'The Story Behind Shift SC'
 date: 2021-11-18 00:00:00
 description: Adam Novak
+author: Adam Novak
 featured_image: '/images/demo/demo-square.jpg'
 ---
 As we wrap up the fall semester, Shift SC is ready to launch into spring 2022 with our first full cohort of Shifties. It's been super exciting for us to create an organization full of purpose, personality, and great people (love you Shift fam💜). It's also been a joy to hear others express their excitement for our upcoming initiatives like Digital Well-Being Workshops, an Ethics in AI Curriculum, and USC's first Tech4Good Student Symposium.

@@ -1,6 +1,6 @@
 ---
 title: 'Initiatives'
-subtitle: '[Shift SC]'
+subtitle: ''
 date: 2021-11-10 00:00:00
 description: Digital wellbeing workshops, professional symposiums, and more.
 featured_image: '/images/arrow-logo/SHIFTSC_LOGO-01.png'
