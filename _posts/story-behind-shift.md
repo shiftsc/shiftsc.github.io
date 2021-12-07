@@ -42,4 +42,4 @@ I felt drawn to engage further in these conversations but wasn't quite sure wher
 - John: "😮🤔😏"
  
 ### Enter: Shift SC
-Interested in reading more about what exactly Shift is and how it works? Check out this other blogpost here!
+Interested in reading more about what exactly Shift is and how it works? Check out this other blogpost [here!](https://shiftsc.org/blog/meet-shift)!
