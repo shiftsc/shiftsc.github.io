@@ -8,8 +8,8 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Home'
-      url: '/'
+    - title: 'Mission'
+      url: '/mission'
     - title: 'Family'
       url: '/family'
     - title: 'Initiatives'
