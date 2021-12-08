@@ -12,12 +12,14 @@ But before we look too far ahead, let's take a moment to look back:
 *How did we get here?*
 *What's the story behind Shift?*
 
+---
 
 My experience as a CS major at USC the last few years has felt like a comprehensive tech bro curriculum. I've built top-placing apps at hackathons, dabbled in some Viterbi research, and like many of my peers, fell into the Daddy Elon Musk rabbit hole for some time.
 
 
 Honestly, it's hard not to get lost in the hype. We live in a world where smartphones enable super-human communication, Google instantaneously answers any question you offer it, and everyone and their aunt wants to found a startup. Amazing, right? As college students, it's especially exciting to consider the endless possibilities of better tech.
 
+---
 
 Yet amidst all the oohs and aahs, the bag and clout, and the glitz and glam, the social issues created by innovation are largely overlooked. Social media algorithms now push political parties towards more negative advertisements to maximize views. Engaging user interfaces keep us spending more time than we would like on our devices. Self-driving cars are predicted to push millions into the gig economy without benefits or dependable pay. 
 
@@ -26,6 +28,8 @@ All the tech hype crowds out the most important topics:
 - How is our well-being affected by personal devices and apps?
 - Where exactly is the balance between automation and meaningful work?
 - What is the role of government in ensuring an equitable and safe technological future?
+
+---
 
 Just as these concerns became especially predominant for me, I decided to act on my long-standing interest in mindfulness by [staying at a Buddhist monastery last summer.](https://adamvnovak.medium.com/three-months-of-meditation-and-monkhood-how-disciplined-self-observation-can-make-you-a-better-44e5e33498ee) Living as a monk, I embarked on several silent 10-day Vipassana meditation courses and committed many hours to mindful service. The combination of an aescetic lifestyle, deep meditation, and altruistic teachings slowly shifted my perspective on tech. My anxious worries slowly melted away; what filled the gap was a *hope* for a technological future better aligned with human values and a *commitment* to driving that shift.
 
