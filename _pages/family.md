@@ -43,7 +43,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>John Heo</h3>
     </center>
     <center>
-      <p> Vice President of Projects </p>
+      <p> VP of Projects </p>
     </center>
   </div>
   <div class="column">
@@ -51,7 +51,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>Rachel.Amir Chatman</h3>
     </center>
     <center>
-      <p> Vice President of Community </p>
+      <p> VP of Community </p>
     </center>
   </div>
 </div>
@@ -75,7 +75,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>Annaka Lee</h3>
     </center>
     <center>
-      <p> Vice President of Recruitment </p>
+      <p> VP of Recruitment </p>
     </center>
   </div>
   <div class="column">
@@ -83,7 +83,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>Kory Arfania</h3>
     </center>
     <center>
-      <p> Vice President of Communications </p>
+      <p> VP of Communications </p>
     </center>
   </div>
   <div class="column">
@@ -91,7 +91,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>Jayden Kang</h3>
     </center>
     <center>
-      <p> Vice President of Graphics </p>
+      <p> VP of Graphics </p>
     </center>
   </div>
 </div>
@@ -115,7 +115,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>Pablo Coen-Pirani</h3>
     </center>
     <center>
-      <p> Vice President of Marketing </p>
+      <p> VP of Marketing </p>
     </center>
   </div>
   <div class="column">
@@ -131,7 +131,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>Chely Fernandez</h3>
     </center>
     <center>
-      <p> Well-Being Workshop Director </p>
+      <p> Digital Well-Being Workshops Director </p>
     </center>
   </div>
 </div>
