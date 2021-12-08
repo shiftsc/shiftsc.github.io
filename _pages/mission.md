@@ -26,14 +26,20 @@ Through a diverse range of [initiatives](https://shiftsc.org/initiatives), we ai
 --- 
 
 ###### We really love this word "Shift"
-It's kinda quirky 😮, fits us well 👔, and was chosen for reason 💡.
+It's kinda quirky 😮, fits us well 👔, and was chosen for reason 💡
 
-**Shift** represents a **change** in direction—a **transition** from a *technology*-centered approach of innovation and progress to a *human*-centered one—a **growth** in our awareness of the social issues that technology creates and our understanding of how we can steer it for the better.
+<b style="color:#B082E0">Shift</b> represents a <b style="color:#B082E0">change</b> in direction—a <b style="color:#B082E0">transition</b>
+ from a *technology*-centered approach of innovation and progress to a *human*-centered one—a <b style="color:#B082E0">growth</b>
+ in our awareness of the social issues that technology creates and our understanding of how we can steer it for the better.
 
 ###### The two phrases "human-centered" and "socially responsible" represent the core ideals of our organization:
 
-- placing **human** well-being 🙂 at the **center** 🎯 of how we design and think about technology
-- upholding **accountability** ❗️ for the negative **social** impacts 🙁 of tech
+- placing <b style="color:#B082E0">human</b>
+well-being 🙂 at the <b style="color:#B082E0">center</b>
+ 🎯 of how we design and think about technology
+- upholding <b style="color:#B082E0">accountability</b>
+ ❗️ for the negative <b style="color:#B082E0">social</b>
+ impacts 🙁 of tech
 
 ---
 
