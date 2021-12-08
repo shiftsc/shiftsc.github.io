@@ -44,7 +44,7 @@ well-being 🙂 at the <b style="color:#B082E0">center</b>
 ---
 
 ###### What exactly are these social implications and ethical issues of tech, anyway? 
-Some areas we're passionate about:
+Some areas we care about:
 
 - **Attention Economy**
 - **Ubiquitous Algorithms** 
