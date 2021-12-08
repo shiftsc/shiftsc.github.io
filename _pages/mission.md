@@ -25,7 +25,7 @@ Through a diverse range of [initiatives](https://shiftsc.org/initiatives), we ai
 
 --- 
 
-###### We really love this word "Shift"
+###### We really love this word *Shift*
 It's kinda quirky 😮, fits us well 👔, and was chosen for reason 💡
 
 <b style="color:#B082E0">Shift</b> represents a <b style="color:#B082E0">change</b> in direction—a <b style="color:#B082E0">transition</b>
@@ -42,6 +42,12 @@ well-being 🙂 at the <b style="color:#B082E0">center</b>
  impacts 🙁 of tech
 
 ---
+
+You might have heard of other awesome tech4good clubs on campus like CAIS++ or Code the Change. Shift SC is unique in a few ways: rather than focusing on "social good", we care specifically about the ethics, human values, and social responsibility within tech. Rather than building new products, we put on campus-wide inititatives and host internal discussions. And rather than leaning towards engineers and makers, we're composed of students of all backgrounds and skillsets.
+
+In this way, Shift provides a balance to the innovation & tech hype at USC. There's Spark SC and Sigma Eta Pi with their entrepreunerial spirit, there's Makers and LavaLab which focus on building products, and then there's Shift SC, oriented towards how all the innovating and building actually affects individuals and society as a whole.
+
+___
 
 ###### What exactly are these social implications and ethical issues of tech, anyway? 
 Some areas we care about:
