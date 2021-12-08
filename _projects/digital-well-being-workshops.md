@@ -1,5 +1,5 @@
 ---
-title: 'Workshops'
+title: 'Digital Well-Being Workshops'
 subtitle: ''
 date: 2021-11-12 00:00:00
 description: 'shift workshops'
