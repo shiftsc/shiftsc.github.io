@@ -2,7 +2,7 @@
 title: APPLY NOW
 subtitle: Sign up for our newsletter, apply to our club, and join our team today!
 description: Sign up for our newsletter, apply to our club, and join our team today!
-featured_image: /images/socials/shift-wants-you.jpg
+featured_image: images/socials/shift-wants-you.JPEG
 ---
 
 ## Subscribe to the Shift SC Newsletter
