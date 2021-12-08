@@ -25,7 +25,7 @@ Through a diverse range of [initiatives](https://shiftsc.org/initiatives), we ai
 
 --- 
 
-###### We really love this word *Shift*
+#### We really love this word *Shift*
 It's kinda quirky 😮, fits us well 👔, and was chosen for reason 💡
 
 <b style="color:#B082E0">Shift</b> represents a <b style="color:#B082E0">change</b> in direction—a <b style="color:#B082E0">transition</b>
@@ -49,7 +49,7 @@ In this way, Shift provides a balance to the innovation & tech hype at USC. Ther
 
 ___
 
-###### What exactly are these social implications and ethical issues of tech, anyway? 
+#### What exactly are these social implications and ethical issues of tech, anyway? 
 Some areas we care about:
 
 - **Attention Economy**
