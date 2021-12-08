@@ -58,4 +58,4 @@ Some areas we're passionate about:
 
 This diversity of our interests in technology and social issues is one of the beauties of Shift. Each of us comes from a different academic background and is drawn to Shift for a slightly different reason. What [ties us together](/family) is our deep interest in technology, our deep empathy for people, and our desire to think deeper about their intersection.
 
-Intrigued? Read more about how Shift works [here](/blog/meet-shift).
+Intrigued? Read more about the [work we do](/initiatives) or check out what your [first semester in Shift might look like](/blog/shiftie-experience).
