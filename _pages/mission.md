@@ -1,7 +1,7 @@
 ---
+layout: page
 title: 'Mission'
-subtitle: 'Why we do what we do'
-description: Descriptionnnn
+description: 
 featured_image: '/images/arrow-logo/SHIFTSC_LOGO-01.png'
 ---
 ## Leggo

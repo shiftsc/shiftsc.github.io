@@ -1,8 +1,8 @@
 ---
-title: 'Our Shift Family'
-subtitle: '[Shifties]'
+title: 'Family'
+subtitle: ''
 description: We are a community of designers, builders, thinkers, and educators driving the shift towards a technological future better aligned with human values.
-featured_image: '/images/arrow-logo/SHIFTSC_LOGO-01.png'
+featured_image: ''
 ---
 Our executive board is composed of 10 motivated students from diverse areas of study. We are working to create a space where discourse surrounding humane technology is both welcomed and celebrated.
   
