@@ -81,7 +81,7 @@ font_settings:
   title_font: '"Varela Round", sans-serif'
   body_font: '"Varela Round", sans-serif'
   regular_weight: 400
-  bold_weight: 600
+  bold_weight: 900
   site_title:
     small_size: 25
     medium_size: 30

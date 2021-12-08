@@ -4,7 +4,7 @@ date: 2021-12-7 00:00:00
 description: Read about Shift's mission and what we do!
 author: Adam Novak
 featured_image: '/images/swirl-logo/lavendar-swirl.png'
-interior_image: ''
+interior_image: '/images/swirl-logo/swirly-gray-2.png'
 ---
 Shift SC is USC's student-led platform for human-centered and socially responsible technology. We work to promote interdiscipinary conversation and action around the social implications and ethical issues of tech. 
 
