@@ -6,7 +6,7 @@ featured_image: '/images/arrow-logo/SHIFTSC_LOGO-01.png'
 ---
 
 ## Shift SC is USC's student-led platform for human-centered and socially responsible technology. 
-<div style="align-items:center;margin:40px">
+<div style="align-items:center;margin:35px">
 <img alt="round logo" src="images/arrow-logo/arrow-circle.png" width="100" style="margin-right:15px;float:left">
 <p style="">Our goal is to promote interdiscipinary conversation and action around the social implications and ethical issues of tech. <b style="color:#B082E0">yuh</b></p>
 </div>
