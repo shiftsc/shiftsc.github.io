@@ -38,6 +38,12 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  -
+    scope:
+      path: ""
+      type: "initiatives"
+    values:
+      layout: "initiatives"
 
 markdown: kramdown
 

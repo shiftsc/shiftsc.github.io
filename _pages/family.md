@@ -1,14 +1,12 @@
 ---
-title: 'The Shift Family'
-subtitle: ''
+title: 'Our Shift Family'
+subtitle: '[Shifties]'
 description: We are a community of designers, builders, thinkers, and educators driving the shift towards a technological future better aligned with human values.
 featured_image: '/images/arrow-logo/SHIFTSC_LOGO-01.png'
 ---
 Our executive board is composed of 10 motivated students from diverse areas of study. We are working to create a space where discourse surrounding humane technology is both welcomed and celebrated.
-
-asdfasdf
   
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="3">
 	<img src="/images/socials/boba.jpeg">
 	<img src="/images/socials/game_night.jpg">
 	<img src="/images/socials/muddy_tofu.jpg">
@@ -45,7 +43,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>John Heo</h3>
     </center>
     <center>
-      <p> VP of Projects </p>
+      <p> Vice President of Projects </p>
     </center>
   </div>
   <div class="column">
@@ -53,7 +51,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>Rachel.Amir Chatman</h3>
     </center>
     <center>
-      <p> VP of Community </p>
+      <p> Vice President of Community </p>
     </center>
   </div>
 </div>
@@ -77,7 +75,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>Annaka Lee</h3>
     </center>
     <center>
-      <p> VP of Recruitment </p>
+      <p> Vice President of Recruitment </p>
     </center>
   </div>
   <div class="column">
@@ -85,7 +83,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>Kory Arfania</h3>
     </center>
     <center>
-      <p> VP of Communications </p>
+      <p> Vice President of Communications </p>
     </center>
   </div>
   <div class="column">
@@ -93,7 +91,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>Jayden Kang</h3>
     </center>
     <center>
-      <p> VP of Graphics </p>
+      <p> Vice President of Graphics </p>
     </center>
   </div>
 </div>
@@ -117,7 +115,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>Pablo Coen-Pirani</h3>
     </center>
     <center>
-      <p> VP of Marketing </p>
+      <p> Vice President of Marketing </p>
     </center>
   </div>
   <div class="column">
@@ -133,7 +131,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>Chely Fernandez</h3>
     </center>
     <center>
-      <p> Digital Well-Being Workshop Director </p>
+      <p> Well-Being Workshop Director </p>
     </center>
   </div>
 </div>

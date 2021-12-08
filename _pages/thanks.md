@@ -1,8 +1,8 @@
 ---
-title: 'Thanks'
-subtitle: ''
-description: You submitted a form!
-featured_image: '/images/arrow-logo/SHIFTSC_LOGO-01.png'
+title: Thank you
+subtitle: Your message was sent successfully.
+description: A sleek, modern Jekyll theme for personal websites.
+featured_image: /images/swirl-logo/SWIRL_swirl.png
 ---
-## Leggo
-form submitted yeehaw
+
+![](/images/demo/about.jpg)
