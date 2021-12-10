@@ -14,14 +14,15 @@ Our executive board is composed of 10 motivated students from diverse areas of s
     <img src="/images/socials/tennis.jpg">
 </div>
 
-Check out each member of the executive board below! The projects you'll see directed by some of our members are described on the [Initiatives](https://shiftsc.org/initiatives) page (click to learn more). <br />
+Check out each member of the executive board below! The projects you'll see directed by some of our members are described on the [Initiatives](https://shiftsc.org/initiatives) page (click to learn more). 
+<br />
 <br />
 <div class="row">
   <div class="column">
     <img src="/images/members/adam.jpg" alt="Adam Novak" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/members/temp.png" 
+    <img src="/images/members/john.jpg" 
     alt="John Heo" style="width:100%">
   </div>
   <div class="column">
@@ -43,7 +44,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>John Heo</h3>
     </center>
     <center>
-      <p> VP of Projects </p>
+      <p> AI Ethics Curriculum Director </p>
     </center>
   </div>
   <div class="column">
