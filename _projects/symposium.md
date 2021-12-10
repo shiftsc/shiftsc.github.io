@@ -1,7 +1,12 @@
 ---
+layout: page
 title: 'Tech4Good Student Symposium'
 subtitle: ''
 date: 2021-11-12 00:00:00
 description: 'USCs first ever all-day student-led symposium dedicated to showcasing the great ideas, research, and projects related to social good of USC students.'
 featured_image: 'images/initiatives/symposium/tristan.png'
 ---
+![Picc]()
+
+---
+The Tech4Good Student Symposium is an all-day event where USC design teams and individual students have the opportunity to present their human-centered technology inventions at the end of each semester. Each Tech4Good Student Symposium also features a high-profile guest speaker from a tech profession. In addition, students can apply to give a ten-minute Ted Talk at the Symposium. Tech4Good Student Symposiums are open to all students to participate and view, and professors and employers will also be in the audience. Free meals will be provided to everyone!
