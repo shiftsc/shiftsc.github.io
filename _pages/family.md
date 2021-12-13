@@ -1,5 +1,5 @@
 ---
-title: 'Family'
+title: 'FAMILY'
 subtitle: ''
 description: We are a community of designers, builders, thinkers, and educators driving the shift towards a technological future better aligned with human values.
 featured_image: ''
@@ -59,14 +59,14 @@ Check out each member of the executive board below! The projects you'll see dire
 
 <div class="row">
   <div class="column">
-    <img src="/images/members/temp.png" alt="Annaka Lee" style="width:100%">
+    <img src="/images/members/annaka.jpg" alt="Annaka Lee" style="width:100%">
   </div>
   <div class="column">
     <img src="/images/members/kory.jpg" 
     alt="Kory Arfania" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/members/temp.png" alt="Jayden Kang" style="width:100%">
+    <img src="/images/members/jayden.jpeg" alt="Jayden Kang" style="width:100%">
   </div>
 </div>
 
@@ -99,7 +99,7 @@ Check out each member of the executive board below! The projects you'll see dire
 
 <div class="row">
   <div class="column">
-    <img src="/images/members/temp.png" alt="Pablo Coen-Pirani" style="width:100%">
+    <img src="/images/members/pablo.jpeg" alt="Pablo Coen-Pirani" style="width:100%">
   </div>
   <div class="column">
     <img src="/images/members/caroline.jpeg" 
@@ -142,7 +142,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <img src="/images/members/jenny.JPG" alt="Jenny Guo" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/members/temp.png" 
+    <img src="/images/members/you-too.jpg" 
     alt="Future Shftie" style="width:100%">
   </div>
 </div>
@@ -161,13 +161,9 @@ Check out each member of the executive board below! The projects you'll see dire
     <h3>Future Shiftie</h3>
     </center>
     <center>
-      <p> You too can join our family! Check the APPLY NOW tab to learn more. </p>
+      <p> You can join the Shift Family too! </p>
     </center>
   </div>
 </div> 
-<br />
 
-<center>
-<h2> The Shiftie Experience </h2>
-</center>
-*blurb*
+Learn more about the [Shiftie Experience](https://shiftsc.org/blog/shiftie-experience) through Rachel.Amir's blog post and see if our Family is the right fit for you! If you have any questions about what Shift SC represents or what it means to be a Shiftie, contact us via email through the [APPLY NOW](https://shiftsc.org/contact) tab in the menu.

@@ -1,11 +1,13 @@
 ---
 title: APPLY NOW
-subtitle: Sign up for our newsletter, apply to our club, and join our team today!
+subtitle: ''
 description: Sign up for our newsletter, apply to our club, and join our team today!
 featured_image: /images/socials/muddy_tofu.jpg
 ---
 
-## Subscribe to the Shift SC Newsletter
+<center>
+<h2> Subscribe to the Shift SC Newsletter </h2>
+</center>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -51,11 +53,11 @@ featured_image: /images/socials/muddy_tofu.jpg
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-<br />
+
 <center>
 <h2>Join the Shift SC Family</h2>
 </center>
-<br />
+<br>
 <center>
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Apply Now</a>
+<a href="https://shiftsc.org" class="button button--large">Apply Now</a>
 </center>
