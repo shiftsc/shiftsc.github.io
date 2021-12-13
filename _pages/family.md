@@ -4,17 +4,22 @@ subtitle: ''
 description: We are a community of designers, builders, thinkers, and educators driving the shift towards a technological future better aligned with human values.
 featured_image: ''
 ---
-Our executive board is composed of 10 motivated students from diverse areas of study. We are working to create a space where discourse surrounding humane technology is both welcomed and celebrated.
-  
-<div class="gallery" data-columns="3">
+Our executive board is composed of 10 motivated students from <b style="color:#B082E0">diverse</b> areas of study. We are working to create a space where discourse surrounding humane technology is both <b style="color:#B082E0">welcomed</b> and <b style="color:#B082E0">celebrated</b>. It's all or nothing.
+
+## We like to have fun 🥳
+
+<div class="gallery" data-columns="1">
 	<img src="/images/socials/boba.jpeg">
 	<img src="/images/socials/game_night.jpg">
 	<img src="/images/socials/muddy_tofu.jpg">
 	<img src="/images/socials/pumpkin_painting.jpg">
-    <img src="/images/socials/tennis.jpg">
+  <img src="/images/socials/tennis.jpg">
+  <img src="/images/socials/annakas-house.jpg">
 </div>
+Creating a sense of <b style="color:#B082E0">commraderie</b> and genuine <b style="color:#B082E0">connection</b> is what Shift is all about. By becoming a Shiftie, you're joining a tight-knit group of students you can call <b style="color:#B082E0">family</b>.
 
-Check out each member of the executive board below! The projects you'll see directed by some of our members are described on the [Initiatives](https://shiftsc.org/initiatives) page (click to learn more). 
+## But we also get down to business 💻
+Below are the roles and responsibilities of each executive board member. Through these leadership positions alone, you'll see the commitment of our team to promote <b style="color:#B082E0">human-centered technology</b> on campus. Surprise––we actually care about what we do.
 <br />
 <br />
 <div class="row">
@@ -142,7 +147,7 @@ Check out each member of the executive board below! The projects you'll see dire
     <img src="/images/members/jenny.JPG" alt="Jenny Guo" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/members/you-too.jpg" 
+    <img src="/images/members/temp.png" 
     alt="Future Shftie" style="width:100%">
   </div>
 </div>

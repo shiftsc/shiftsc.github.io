@@ -61,6 +61,7 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: 'https://www.linkedin.com/company/shiftsc/'
+  mailchimp_url: 'http://eepurl.com/hPWW85'
 
 color_settings:
   background_color: '#F4F4F4'
