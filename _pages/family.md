@@ -22,6 +22,50 @@ Creating a sense of <b style="color:#B082E0">commraderie</b> and genuine <b styl
 Below are the roles and responsibilities of each executive board member. Through these leadership positions alone, you'll see the commitment of our team to promote <b style="color:#B082E0">human-centered technology</b> on campus. Surprise––we actually care about what we do.
 <br />
 <br />
+
+<!--New meet the team page-->
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="/images/members/adam.jpg" alt="Adam Novak" style="width:100%">
+      <div class="container">
+        <h3><center>Adam Novak</center></h3>
+        <b style="color:#B082E0"><center>[President]</center></b>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p><center><button class="button">Contact</button></center></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="/images/members/john.jpg" alt="John Heo" style="width:100%">
+      <div class="container">
+        <h3><center>John Heo</center></h3>
+        <b style="color:#B082E0"><center>[AI Ethics Curriculum Director]</center></b>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p><center><button class="button">Contact</button></center></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="/images/members/rachel_amir.jpg" alt="Rachel.Amir" style="width:100%">
+      <div class="container">
+        <h3><center>Rachel.Amir Chatman</center></h3>
+        <b style="color:#B082E0"><center>[VP of Community]</center></b>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p><center><button class="button">Contact</button></center></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+<!--Old meet the team page-->
+<br />
+<br />
 <div class="row">
   <div class="column">
     <img src="/images/members/adam.jpg" alt="Adam Novak" style="width:100%">
