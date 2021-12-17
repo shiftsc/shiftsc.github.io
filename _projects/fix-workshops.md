@@ -13,3 +13,16 @@ engineering+ taken to a whole new level
 
 ----
 During <b style="color:#B082E0">FIX Workshops</b>, two USC professors from different disciplines discuss a specific human-centered technology issue. A moderator fosters the discussion by posing questions, and the floor opens up to student questions at the end. Following this conversation, the event breaks into small group discussions, so that students and faculty may compare their thoughts on the featured topic. For example, a philosophy professor and a professor in the field of Artificial Intelligence (AI) will discuss the future implications of AI. FIX Workshops are open to all USC students and take place two to three times each semester, each workshop focusing on a different topic.
+
+## Upcoming Events 📅
+
+| <center> Event </center>| <center> Date </center> | <center> Location </center> | <center> People </center> | <center> Giveaways </center>
+|----------------------|---------------|------------------|-------|
+| <center> Event 1 </center> | <center> dd/mm/yyyy </center>| <center> GFS 101 </center>| <center> Chely F. </center>| <center> Pizza </center>
+| <center> Event 2 </center> | <center> dd/mm/yyyy </center>| <center> ZHS 221 </center>| <center> Prof. Novak </center> | <center> $25 Amazon Gift Cards (x5) </center>
+| <center> Event 3 </center> | <center> dd/mm/yyyy </center>| <center> JFF 123 </center>| <center> Dr. Arfania </center> | <center> T-Shirts </center> 
+
+<h3 style="color:#B082E0">Event Descriptions</h3>
+Event 1: ... <br>
+Event 2: ... <br>
+Event 3: ... <br>

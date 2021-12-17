@@ -6,6 +6,8 @@ featured_image: ''
 ---
 Our executive board is composed of 10 motivated students from <b style="color:#B082E0">diverse</b> areas of study. We are working to create a space where discourse surrounding humane technology is both <b style="color:#B082E0">welcomed</b> and <b style="color:#B082E0">celebrated</b>. It's all or nothing.
 
+![Pie Chart](/images/members/pie-chart.png)
+
 ## We like to have fun 🥳
 
 <div class="gallery" data-columns="1">
@@ -32,7 +34,6 @@ Below are the roles and responsibilities of each executive board member. Through
         <h3><center>Adam Novak</center></h3>
         <b style="color:#B082E0"><center>[President]</center></b>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p><center><button class="button">Contact</button></center></p>
       </div>
     </div>
   </div>
@@ -44,11 +45,12 @@ Below are the roles and responsibilities of each executive board member. Through
         <h3><center>John Heo</center></h3>
         <b style="color:#B082E0"><center>[AI Ethics Curriculum Director]</center></b>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p><center><button class="button">Contact</button></center></p>
       </div>
     </div>
   </div>
+</div>
 
+<div class="row">
   <div class="column">
     <div class="card">
       <img src="/images/members/rachel_amir.jpg" alt="Rachel.Amir" style="width:100%">
@@ -56,163 +58,104 @@ Below are the roles and responsibilities of each executive board member. Through
         <h3><center>Rachel.Amir Chatman</center></h3>
         <b style="color:#B082E0"><center>[VP of Community]</center></b>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p><center><button class="button">Contact</button></center></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="/images/members/annaka.jpg" alt="Annaka Lee" style="width:100%">
+      <div class="container">
+        <h3><center>Annaka Lee</center></h3>
+        <b style="color:#B082E0"><center>[VP of Recruitment]</center></b>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
       </div>
     </div>
   </div>
 </div>
 
----
-<!--Old meet the team page-->
-<br />
-<br />
 <div class="row">
   <div class="column">
-    <img src="/images/members/adam.jpg" alt="Adam Novak" style="width:100%">
+    <div class="card">
+      <img src="/images/members/kory.jpg" alt="Kory Arfania" style="width:100%">
+      <div class="container">
+        <h3><center>Kory Arfania</center></h3>
+        <b style="color:#B082E0"><center>[VP of Communications]</center></b>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+      </div>
+    </div>
   </div>
+
   <div class="column">
-    <img src="/images/members/john.jpg" 
-    alt="John Heo" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/members/rachel_amir.jpg" alt="Jenny Guo" style="width:100%">
+    <div class="card">
+      <img src="/images/members/jayden.jpeg" alt="Jayden Kang" style="width:100%">
+      <div class="container">
+        <h3><center>Jayden Kang</center></h3>
+        <b style="color:#B082E0"><center>[VP of Graphics]</center></b>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+      </div>
+    </div>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
-    <center>
-    <h3>Adam Novak</h3>
-    </center>
-    <center>
-      <p> President</p>
-    </center>
+    <div class="card">
+      <img src="/images/members/pablo.jpeg" alt="Pablo Coen-Pirani" style="width:100%">
+      <div class="container">
+        <h3><center>Pablo Coen-Pirani</center></h3>
+        <b style="color:#B082E0"><center>[VP of Marketing]</center></b>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+      </div>
+    </div>
   </div>
+
   <div class="column">
-    <center>
-    <h3>John Heo</h3>
-    </center>
-    <center>
-      <p> AI Ethics Curriculum Director </p>
-    </center>
-  </div>
-  <div class="column">
-    <center>
-    <h3>Rachel.Amir Chatman</h3>
-    </center>
-    <center>
-      <p> VP of Community </p>
-    </center>
+    <div class="card">
+      <img src="/images/members/jenny.JPG" alt="Jenny Guo" style="width:100%">
+      <div class="container">
+        <h3><center>Jenny Guo</center></h3>
+        <b style="color:#B082E0"><center>[STS Lab Director]</center></b>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+      </div>
+    </div>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
-    <img src="/images/members/annaka.jpg" alt="Annaka Lee" style="width:100%">
+    <div class="card">
+      <img src="/images/members/chely.jpeg" alt="Chely Fernandez" style="width:100%">
+      <div class="container">
+        <h3><center>Chely Fernandez</center></h3>
+        <b style="color:#B082E0"><center>[Digital Well-Being Workshop Director]</center></b>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+      </div>
+    </div>
   </div>
+
   <div class="column">
-    <img src="/images/members/kory.jpg" 
-    alt="Kory Arfania" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/members/jayden.jpeg" alt="Jayden Kang" style="width:100%">
+    <div class="card">
+      <img src="/images/members/caroline.jpeg" alt="Caroline Kenney" style="width:100%">
+      <div class="container">
+        <h3><center>Caroline Kenney</center></h3>
+        <b style="color:#B082E0"><center>[FIX & Tech4Good Symposium Director]</center></b>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+      </div>
+    </div>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
-    <center>
-    <h3>Annaka Lee</h3>
-    </center>
-    <center>
-      <p> VP of Recruitment </p>
-    </center>
-  </div>
-  <div class="column">
-    <center>
-    <h3>Kory Arfania</h3>
-    </center>
-    <center>
-      <p> VP of Communications </p>
-    </center>
-  </div>
-  <div class="column">
-    <center>
-    <h3>Jayden Kang</h3>
-    </center>
-    <center>
-      <p> VP of Graphics </p>
-    </center>
+    <div class="card">
+      <img src="/images/members/temp.png" alt="You Too" style="width:100%">
+      <div class="container">
+        <h3><center>Future Shiftie</center></h3>
+        <p>You can be a member of our family as well! Click the 'APPLY NOW' tab to learn more about our application process, hear about upcoming information sessions, and contact us with questions.</p>
+      </div>
+    </div>
   </div>
 </div>
 
-<div class="row">
-  <div class="column">
-    <img src="/images/members/pablo.jpeg" alt="Pablo Coen-Pirani" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/members/caroline.jpeg" 
-    alt="Caroline Kenney" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/members/chely.jpeg" alt="Chely Fernandez" style="width:100%">
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-    <center>
-    <h3>Pablo Coen-Pirani</h3>
-    </center>
-    <center>
-      <p> VP of Marketing </p>
-    </center>
-  </div>
-  <div class="column">
-    <center>
-    <h3>Caroline Kenney</h3>
-    </center>
-    <center>
-      <p> FIX and Tech4Good Symposium Director </p>
-    </center>
-  </div>
-  <div class="column">
-    <center>
-    <h3>Chely Fernandez</h3>
-    </center>
-    <center>
-      <p> Digital Well-Being Workshops Director </p>
-    </center>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-    <img src="/images/members/jenny.JPG" alt="Jenny Guo" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/members/temp.png" 
-    alt="Future Shftie" style="width:100%">
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-    <center>
-    <h3>Jenny Guo</h3>
-    </center>
-    <center>
-      <p> STS Lab Director </p>
-    </center>
-  </div>
-  <div class="column">
-    <center>
-    <h3>Future Shiftie</h3>
-    </center>
-    <center>
-      <p> You can join the Shift Family too! </p>
-    </center>
-  </div>
-</div> 
-
-Learn more about the [Shiftie Experience](https://shiftsc.org/blog/shiftie-experience) through Rachel.Amir's blog post and see if our Family is the right fit for you! If you have any questions about what Shift SC represents or what it means to be a Shiftie, contact us via email through the [APPLY NOW](https://shiftsc.org/contact) tab in the menu.
+We also have a blog post about the [Shiftie Experience](https://shiftsc.org/blog/shiftie-experience), written by Rachel.Amir! Be sure to check that blog post, as well as the other ones you see on the page. If you resonate with anything we write, don't be afraid to apply!
