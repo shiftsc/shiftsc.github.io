@@ -18,9 +18,9 @@ Our <b style="color:#B082E0">Digital Well-Being Workshops</b> are interactive wo
 
 | <center> Event </center>| <center> Date </center> | <center> Location </center> | <center> People </center> | <center> Giveaways </center>
 |----------------------|---------------|------------------|-------|
-| <center> Event 1 </center> | <center> dd/mm/yyyy </center>| <center> GFS 101 </center>| <center> Chely F. </center>| <center> Pizza </center>
-| <center> Event 2 </center> | <center> dd/mm/yyyy </center>| <center> ZHS 221 </center>| <center> Prof. Novak </center> | <center> $25 Amazon Gift Cards (x5) </center>
-| <center> Event 3 </center> | <center> dd/mm/yyyy </center>| <center> JFF 123 </center>| <center> Dr. Arfania </center> | <center> T-Shirts </center> 
+| <center> Event 1 </center> | <center> dd/mm/yyyy </center>| <center> TBD </center>| <center> TBD. </center>| <center> TBD </center>
+| <center> Event 2 </center> | <center> dd/mm/yyyy </center>| <center> TBD </center>| <center> TBD </center> | <center> $TBD </center>
+| <center> Event 3 </center> | <center> dd/mm/yyyy </center>| <center> TBD </center>| <center> TBD </center> | <center> TBD </center> 
 
 <h3 style="color:#B082E0">Event Descriptions</h3>
 Event 1: ... <br>
