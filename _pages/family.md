@@ -33,7 +33,7 @@ Below are the roles and responsibilities of each executive board member. Through
       <div class="container">
         <h3><center>Adam Novak</center></h3>
         <b style="color:#B082E0"><center>[President]</center></b>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p></p>
       </div>
     </div>
   </div>
@@ -44,7 +44,7 @@ Below are the roles and responsibilities of each executive board member. Through
       <div class="container">
         <h3><center>John Heo</center></h3>
         <b style="color:#B082E0"><center>[AI Ethics Curriculum Director]</center></b>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p></p>
       </div>
     </div>
   </div>
@@ -55,9 +55,9 @@ Below are the roles and responsibilities of each executive board member. Through
     <div class="card">
       <img src="/images/members/rachel_amir.jpg" alt="Rachel.Amir" style="width:100%">
       <div class="container">
-        <h3><center>Rachel.Amir Chatman</center></h3>
+        <h4><center>Rachel.Amir Chatman</center></h4>
         <b style="color:#B082E0"><center>[VP of Community]</center></b>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p></p>
       </div>
     </div>
   </div>
@@ -68,7 +68,7 @@ Below are the roles and responsibilities of each executive board member. Through
       <div class="container">
         <h3><center>Annaka Lee</center></h3>
         <b style="color:#B082E0"><center>[VP of Recruitment]</center></b>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p></p>
       </div>
     </div>
   </div>
@@ -80,8 +80,8 @@ Below are the roles and responsibilities of each executive board member. Through
       <img src="/images/members/kory.jpg" alt="Kory Arfania" style="width:100%">
       <div class="container">
         <h3><center>Kory Arfania</center></h3>
-        <b style="color:#B082E0"><center>[VP of Communications]</center></b>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <b style="color:#B082E0"><center>[VP of Comms]</center></b>
+        <p></p>
       </div>
     </div>
   </div>
@@ -92,7 +92,7 @@ Below are the roles and responsibilities of each executive board member. Through
       <div class="container">
         <h3><center>Jayden Kang</center></h3>
         <b style="color:#B082E0"><center>[VP of Graphics]</center></b>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p></p>
       </div>
     </div>
   </div>
@@ -105,7 +105,7 @@ Below are the roles and responsibilities of each executive board member. Through
       <div class="container">
         <h3><center>Pablo Coen-Pirani</center></h3>
         <b style="color:#B082E0"><center>[VP of Marketing]</center></b>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p></p>
       </div>
     </div>
   </div>
@@ -116,7 +116,7 @@ Below are the roles and responsibilities of each executive board member. Through
       <div class="container">
         <h3><center>Jenny Guo</center></h3>
         <b style="color:#B082E0"><center>[STS Lab Director]</center></b>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p></p>
       </div>
     </div>
   </div>
@@ -129,7 +129,7 @@ Below are the roles and responsibilities of each executive board member. Through
       <div class="container">
         <h3><center>Chely Fernandez</center></h3>
         <b style="color:#B082E0"><center>[Digital Well-Being Workshop Director]</center></b>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p></p>
       </div>
     </div>
   </div>
@@ -140,7 +140,7 @@ Below are the roles and responsibilities of each executive board member. Through
       <div class="container">
         <h3><center>Caroline Kenney</center></h3>
         <b style="color:#B082E0"><center>[FIX & Tech4Good Symposium Director]</center></b>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p></p>
       </div>
     </div>
   </div>

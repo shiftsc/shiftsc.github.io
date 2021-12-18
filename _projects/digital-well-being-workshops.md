@@ -18,8 +18,8 @@ Our <b style="color:#B082E0">Digital Well-Being Workshops</b> are interactive wo
 
 | <center> Event </center>| <center> Date </center> | <center> Location </center> | <center> People </center> | <center> Giveaways </center>
 |----------------------|---------------|------------------|-------|
-| <center> Event 1 </center> | <center> dd/mm/yyyy </center>| <center> TBD </center>| <center> TBD. </center>| <center> TBD </center>
-| <center> Event 2 </center> | <center> dd/mm/yyyy </center>| <center> TBD </center>| <center> TBD </center> | <center> $TBD </center>
+| <center> Event 1 </center> | <center> dd/mm/yyyy </center>| <center> TBD </center>| <center> TBD </center>| <center> TBD </center>
+| <center> Event 2 </center> | <center> dd/mm/yyyy </center>| <center> TBD </center>| <center> TBD </center> | <center> TBD </center>
 | <center> Event 3 </center> | <center> dd/mm/yyyy </center>| <center> TBD </center>| <center> TBD </center> | <center> TBD </center> 
 
 <h3 style="color:#B082E0">Event Descriptions</h3>
