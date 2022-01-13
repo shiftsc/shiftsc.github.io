@@ -35,7 +35,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'https://www.facebook.com/Shift-SC-100851265812636'
   twitter_url: ''
   instagram_url: 'https://www.instagram.com/shift.sc/'
   snapchat_url: ''
@@ -60,7 +60,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: 'https://www.linkedin.com/company/shiftsc/'
+  linkedin_url: ''
   mailchimp_url: 'http://eepurl.com/hPWW85'
 
 color_settings:
