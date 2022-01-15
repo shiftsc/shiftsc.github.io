@@ -2,27 +2,30 @@
 layout: page
 title: 'FIX Workshops'
 subtitle: ''
-date: 2021-11-04 00:00:00
-description: 'A Forum for Interdisciplinary Exchange, where two professors from different fields will discuss a shared topic about human-centered technology for an audience of students.'
+date: 2021-11-01 00:00:00
+description: 'FIX: Forum for Interdisciplinary Exchange. USC professors from disparate fields examine a pointed ethical and social issue in technology followed by roundtable student discussion.'
 featured_image: 'images/initiatives/fix-workshops/yuval.jpg'
 ---
-engineering+ taken to a whole new level
 ----
 
 ![Picc](/images/initiatives/fix-workshops/caroline.jpg)
 
 ----
-During <b style="color:#B082E0">FIX Workshops</b>, two USC professors from different disciplines discuss a specific human-centered technology issue. A moderator fosters the discussion by posing questions, and the floor opens up to student questions at the end. Following this conversation, the event breaks into small group discussions, so that students and faculty may compare their thoughts on the featured topic. For example, a philosophy professor and a professor in the field of Artificial Intelligence (AI) will discuss the future implications of AI. FIX Workshops are open to all USC students and take place two to three times each semester, each workshop focusing on a different topic.
+
+FIX: Forum for Interdisciplinary Exchange. As implied by the name, <b style="color:#B082E0">FIX Workshops</b> are where two or more USC professors from different disciplines come together to discuss a specific social or ethical issue of technology. A student moderator will foster the discussion by posing questions, and the conversation is followed by small group discussions so that students and faculty may compare their thoughts on the featured topic. FIX Workshops are open to all USC students and take place two to three times each semester, with each workshop focusing on a different topic.
+
+FIX was founded on the idea that issues in technology often don't receive enough interdisciplinary focus on campus. Through FIX, Shift aims to create opportunities for students interested in exploring the ethical and social impliciations of a particular technology alongside their peers and mentors.
+
+Shift is working to launch several FIX Workshops the upcoming spring semester for the USC campus to engage with. Some potential topics include the future of meaningful work by USC AI, economics and philosophy professors, or truly sustainable technological development featuring environmental and computer scientists.
+
 
 ## Upcoming Events 📅
 
 | <center> Event </center>| <center> Date </center> | <center> Location </center> | <center> People </center> | <center> Giveaways </center>
 |----------------------|---------------|------------------|-------|
-| <center> Event 1 </center> | <center> dd/mm/yyyy </center>| <center> TBD </center>| <center> TBD </center>| <center> TBD </center>
-| <center> Event 2 </center> | <center> dd/mm/yyyy </center>| <center> TBD </center>| <center> TBD </center> | <center> TBD </center>
-| <center> Event 3 </center> | <center> dd/mm/yyyy </center>| <center> TBD </center>| <center> TBD </center> | <center> TBD </center> 
+| <center> Coming soon... </center> | <center> dd/mm/yyyy </center>| <center> TBD </center>| <center> TBD </center>| <center> TBD </center>
+| <center> Coming soon... </center> | <center> dd/mm/yyyy </center>| <center> TBD </center>| <center> TBD </center> | <center> TBD </center>
+| <center> Coming soon... </center> | <center> dd/mm/yyyy </center>| <center> TBD </center>| <center> TBD </center> | <center> TBD </center> 
 
 <h3 style="color:#B082E0">Event Descriptions</h3>
-Event 1: ... <br>
-Event 2: ... <br>
-Event 3: ... <br>
+Coming soon ... <br>

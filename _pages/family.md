@@ -1,35 +1,43 @@
 ---
+layout: initiatives
 title: 'FAMILY'
 subtitle: ''
 description: We are a community of designers, builders, thinkers, and educators driving the shift towards a technological future better aligned with human values.
-featured_image: ''
----
-Our executive board is composed of 10 motivated students from <b style="color:#B082E0">diverse</b> areas of study. We are working to create a space where discourse surrounding humane technology is both <b style="color:#B082E0">welcomed</b> and <b style="color:#B082E0">celebrated</b>. It's all or nothing.
+interior_image: '/images/titles/family.jpeg'
 
-![Pie Chart](/images/members/pie-chart.png)
+---
+During Shift SC's first semester in Fall 2021, it was just our little e-board working together to turn a vision into reality. We're now opening up to our first cohort and have lots of exciting stuff planned—just wait.
 
 ## We like to have fun 🥳
 
-<div class="gallery" data-columns="1">
-	<img src="/images/socials/boba.jpeg">
-	<img src="/images/socials/game_night.jpg">
-	<img src="/images/socials/muddy_tofu.jpg">
-	<img src="/images/socials/pumpkin_painting.jpg">
-  <img src="/images/socials/tennis.jpg">
-  <img src="/images/socials/annakas-house.jpg">
+<div class="gallery" data-columns="2">
+  <img src="/images/socials/eggavo.jpg">
+  <img src="/images/socials/bobadrinks.jpg">
+  <img src="/images/socials/guns.jpg">
 </div>
-Creating a sense of <b style="color:#B082E0">commraderie</b> and genuine <b style="color:#B082E0">connection</b> is what Shift is all about. By becoming a Shiftie, you're joining a tight-knit group of students you can call <b style="color:#B082E0">family</b>.
+
+More than anything, Shift is a group of students who care deeply about the intersection of people and technology and value friendships with others who feel the same.
+
+Creating a sense of <b style="color:#B082E0">commraderie</b> and genuine <b style="color:#B082E0">connection</b> is what we aim for. By joining our first cohort and becoming a Shiftie, you too can join in on the inside jokes and attend John's monthly Lorenzo bangers (BYOP) 
+ <div class="gallery" data-columns="1">
+    <img src="/images/socials/boba.jpeg">
+    <img src="/images/socials/pumpkin_painting.jpg">
+    <img src="/images/members/tennis.jpg">
+    <img src="/images/socials/annakas-house.jpg">
+  </div>
 
 ## But we also get down to business 💻
-Below are the roles and responsibilities of each executive board member. Through these leadership positions alone, you'll see the commitment of our team to promote <b style="color:#B082E0">human-centered technology</b> on campus. Surprise––we actually care about what we do.
+Meet the e-board below! Each of us are passionate about human-centered and socially responsible technology for a slightly different reason and come from a different academic background, but we all come together under the umbrella of Shift SC to put on initiatives and build community.
 <br />
-<br />
+
+![Pie Chart](/images/members/pie-chart.png)
+
 
 <!--New meet the team page-->
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/images/members/adam.jpg" alt="Adam Novak" style="width:100%">
+      <img src="/images/members/adam.jpeg" alt="Adam Novak" style="width:100%">
       <div class="container">
         <h3><center>Adam Novak</center></h3>
         <b style="color:#B082E0"><center>[President]</center></b>
@@ -149,13 +157,26 @@ Below are the roles and responsibilities of each executive board member. Through
 <div class="row">
   <div class="column">
     <div class="card">
+      <div class="container">
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
       <img src="/images/members/temp.png" alt="You Too" style="width:100%">
       <div class="container">
         <h3><center>Future Shiftie</center></h3>
-        <p>You can be a member of our family as well! Click the 'APPLY NOW' tab to learn more about our application process, hear about upcoming information sessions, and contact us with questions.</p>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <div class="container">
       </div>
     </div>
   </div>
 </div>
 
-We also have a blog post about the [Shiftie Experience](https://shiftsc.org/blog/shiftie-experience), written by Rachel.Amir! Be sure to check that blog post, as well as the other ones you see on the page. If you resonate with anything we write, don't be afraid to apply!
+You too can join the fam! [Check out more](/contact) about our recruitment timeline, hit up our information sessions, and reach out with any questions.
+
+Also, read some of our [blog posts](/blog) to read more about the spirit, vision and logistics behind Shift.

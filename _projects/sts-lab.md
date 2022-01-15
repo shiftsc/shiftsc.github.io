@@ -2,14 +2,15 @@
 layout: page
 title: 'STS Lab'
 subtitle: ''
-date: 2021-11-01 00:00:00
+date: 2021-11-20 00:00:00
 description: 'A research team that uses scientific and humanistic methods to examine the impacts of technology humans.'
 featured_image: '/images/initiatives/sts-lab/usc_cs.jpg'
 ---
-a catalyst for change
 ----
 
 ![Picc](/images/initiatives/sts-lab/usc-new-lab.jpg)
 
 ---
-The <b style="color:#B082E0">Science, Technology, & Society (STS) Lab</b> is a research team that uses scientific and humanistic methods to examine technologies' impacts on humans. This year, the STS Lab is creating a research index report analyzing USC students' social media usage and awareness. Through surveys, polls, and interviews, we will look at students' engagement with different online platforms and their effects on students' mental health.
+The <b style="color:#B082E0">Science, Technology, & Society (STS) Lab</b> is a research team that uses scientific and humanistic methods to examine technologies' impacts on humans. Because of an increase in online communication this past year due to the pandemic, this year the STS Lab is creating a research index report analyzing USC students' social media usage and awareness. Through surveys, polls, and interviews, we will look at students' engagement with different online platforms and these social networks’ effects on students' thoughts and behaviors to answer the question: How did social media impact USC students’ mental health in 2022?
+
+During Spring 2022, we will be compiling student responses, analyzing and visualizing data, and finally composing the paper to create an index report. We will produce an academic scientific research report together with the goal of presenting it at Shift’s Tech4Good Symposium, other technology-related events with the ultimate goal of getting it published.

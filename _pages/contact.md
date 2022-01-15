@@ -1,59 +1,51 @@
 ---
+layout: initiatives
 title: APPLY NOW
 subtitle: ''
 description: Sign up for our newsletter, apply to our club, and join our team today!
-featured_image: /images/socials/muddy_tofu.jpg
+interior_image: '/images/titles/applynow.jpeg'
 ---
 
 ---
 <center><h2 style="color:#B082E0"> APPLICATION OPENS 01/18/2022 AND CLOSES 02/12/2022 AT 5:00 PM PST</h2> </center>
 ---
+<center>
+<h2>Join the Shift Family 👨‍👩‍👦</h2>
+</center>
 
-## Join the Shift Family 👨‍👩‍👦
-<div class="row">
-  <div class="column">
-    <img src="/images/socials/shift-wants-you.JPEG" alt="SHift Wants You" style="width:100%">
-  </div>
-  <div class="column">
-    <p><b style="color:#B082E0">We want you!</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-	<a href="http://eepurl.com/hPWW85" class="button button--large">Apply Now!</a>
-  </div>
+
+<div style="display:flex; justify-content:space-evenly; flex-wrap:wrap; align-items:center;  margin-top: 20px">
+  <img src="/images/socials/shift-wants-you.JPEG" alt="Shift Wants You" style="width:100%; max-width:500px; margin-right:15px;float:left">
+  <div style="display:flex; flex-direction:column; justify-content:center;  margin-top: 20px">
+    <p style="max-width:700px">
+      Shift is now recruiting for our Spring 2022 cohort! As a member of our very first ever cohort, you will have an integral role in facilitating the beginning stages of our club’s presence on USC’s campus. 
+      <br/><br/>
+      Look around our website to get a feel for the org, come through our information sessions to hear from us personally, and send an application our way!
+    </p>
+  </div>    
 </div>
 
-## Upcoming Recruitment Events 📅
+<center>
+  <a style="margin-top: 20px; margin-bottom:20px; width:50%" href="http://eepurl.com/hPWW85" class="button button--large">Apply Now!</a>
+</center>
+
+---
+
+
+## Recruitment Timeline 📅
 
 | <center> Event </center>| <center> Date </center> | <center> Location </center> 
 |----------------------|---------------|
 | <center> Info Session 1 </center> | <center> 02/03/2022 </center>| <center> Zoom* </center>
-| <center> Involvement Fair </center> | <center> 02/08/2022 </center>| <center> McCarthy Quad </center>
-| <center> Info Session 2 </center> | <center> 02/09/2022 </center>| <center> Zoom* </center>|
+| <center>  <span style="color:white">Involvement Fair</span></center> | <center><span style="color:white">02/08/2022</span>  </center>| <center><span style="color:white">McCarthy Quad</span>  </center>
+| <center> Info Session 2 </center> | <center> 02/09/2022 </center>| <center> Zoom* </center>
+| <center>  <span style="color:white">APPS DUE</span></center> | <center><span style="color:white">02/12/2022 5PM</span>  </center>| <center><span style="color:white"><a href="http://eepurl.com/hPWW85">Apply here</a></span>  </center>
 
-*Zoom links to be provided in the coming weeks
+*Zoom links to be posted soon
 
----
-
-## Joining Shift FAQs 🤔
-
-<b style="color:#B082E0">Q: Which subteam will I be placed on?</b> <br>
-A: 
-
-<b style="color:#B082E0">Q: How many students do you accept for each cohort?</b> <br>
-A: 
-
-<b style="color:#B082E0">Q: What are some tips for the application?</b> <br>
-A: 
-
-<b style="color:#B082E0">Q: How much commitment should I expect during my cohort of Shift?</b> <br>
-A: As a Shiftie, you’ll contribute around 3 hours per week: 1 hour for our general meeting, 1 hour for your subteam meeting, and some additional independent work for your initiative. Outside of that, we run weekly lunch buddies 🍱 to meet the fam and host socials scattered throughout the semester🥳. We also hope to see you at our optional internal book clubs and at some of our campus-wide initiatives that your fellow Shifties will be leading.
-
-<b style="color:#B082E0">Q: What happens after I graduate with my cohort?</b> <br>
-A: You’ll still remain a part of the Shift Family and can come through all socials, book clubs, and Shift exclusive events. You’ll have the opportunity to apply for Shift E-Board in the spring to lead a subteam or even pitch and start your own initiative! You just won’t be a part of that specific subteam where you were contributing to initiatives during your cohort semester.
-
-<b style="color:#B082E0">Q: Do I need to be a member to go to Shift events?</b> <br>
-A:
 
 ----
-<div class="row">
+<div style="margin-top:60px" class="row">
   <div class="column">
     <h2>Stay in the Shift Loop 🔁</h2>
   </div>
@@ -63,10 +55,14 @@ A:
 	</center>
   </div>
 </div>
-There are a number of ways to keep in touch with Shift. We have our <b style="color:#B082E0">bi-weekly newsletter</b> notifying readers of current happenings in tech, what events Shift is putting on campus, and helping prospective applicants be familiar with our executive board. We also have <b style="color:#B082E0">social media</b> accounts for more casual, consistent updates. Feel free to click on the social media icons and follow us! The buttons below will redirect you to our newsletter subscription form and an email to contact us, respectively. 
-<br>
-<a href="http://eepurl.com/hPWW85" class="button button--large">Subscribe to the Newsletter</a>
-<a href="mailto:shiftsc.usc@gmail.com" class="button button--large">Email Us</a>
+Stay in the know of what moves Shift is making on campus!
+
+We have our <b style="color:#B082E0">bi-weekly newsletter</b> notifying readers of current happenings in socialy responsible tech and Shift's upcoming campus offerings and events.
+
+We also have <b style="color:#B082E0">social media</b> accounts for more casual, consistent updates.
+
+<a href="http://eepurl.com/hPWW85" class="button button--large">Subscribe to Shift's Newsletter</a>
+<a href="mailto:shiftsc.usc@gmail.com" class="button button--large">Email us at shiftsc.usc@gmail.com</a>
 
 
 
