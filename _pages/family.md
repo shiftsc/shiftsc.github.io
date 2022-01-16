@@ -30,7 +30,7 @@ Creating a sense of <b style="color:#B082E0">commraderie</b> and genuine <b styl
 Meet the e-board below! Each of us are passionate about human-centered and socially responsible technology for a slightly different reason and come from a different academic background, but we all come together under the umbrella of Shift SC to put on initiatives and build community.
 <br />
 
-![Pie Chart](/images/members/pie-chart.png)
+![Pie Chart](/images/members/pie.jpeg)
 
 
 <!--New meet the team page-->
