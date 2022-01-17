@@ -7,7 +7,7 @@ interior_image: '/images/titles/applynow.jpeg'
 ---
 
 ---
-<center><h2 style="color:#B082E0"> APPLICATION OPENS 01/18/2022 AND CLOSES 02/12/2022 AT 5:00 PM PST</h2> </center>
+<center><h2 style="color:#B082E0"> APPLICATION OPENS 01/18/2022 AND CLOSES 01/29/2022 AT 5:00 PM PST</h2> </center>
 ---
 <center>
 <h2>Join the Shift Family 👨‍👩‍👦</h2>
@@ -20,7 +20,7 @@ interior_image: '/images/titles/applynow.jpeg'
     <p style="max-width:700px">
       Shift is now recruiting for our Spring 2022 cohort! As a member of our first ever cohort, you will have an integral role in facilitating the beginning stages of our club’s presence on USC’s campus. 
       <br/><br/>
-      Look around our website to get a feel for the org, come through our information sessions to hear from us personally, and send an application our way!
+      Look around our website to get a feel for the org, join our information sessions to hear from us personally, and send an application our way!
     </p>
   </div>    
 </div>
@@ -36,10 +36,11 @@ interior_image: '/images/titles/applynow.jpeg'
 
 | <center> Event </center>| <center> Date </center> | <center> Location </center> 
 |----------------------|---------------|
-| <center> Info Session 1 </center> | <center> 02/03/2022 </center>| <center> Zoom* </center>
-| <center>  <span style="color:white">Involvement Fair</span></center> | <center><span style="color:white">02/08/2022</span>  </center>| <center><span style="color:white">McCarthy Quad</span>  </center>
-| <center> Info Session 2 </center> | <center> 02/09/2022 </center>| <center> Zoom* </center>
-| <center>  <span style="color:white">APPS DUE</span></center> | <center><span style="color:white">02/12/2022 5PM</span>  </center>| <center><span style="color:white"><a href="http://eepurl.com/hPWW85">Apply here</a></span>  </center>
+| <center> Info Session 1 </center> | <center> 01/26/2022 </center>| <center> Zoom* </center>
+| <center>  <span style="color:white">Info Session 2</span></center> | <center><span style="color:white">01/27/2022/08/2022</span>  </center>| <center><span style="color:white">Zoom*</span>  </center>
+| <center> Involvement Fair </center> | <center> 02/08/2022 </center>| <center> McCarthy Quad </center>
+| <center>  <span style="color:white">APPS DUE</span></center> | <center><span style="color:white">01/29/2022 5PM</span>  </center>| <center><span style="color:white"><a href="http://eepurl.com/hPWW85">Apply here</a></span>  </center>
+
 
 *Zoom links to be posted soon
 
