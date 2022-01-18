@@ -7,7 +7,7 @@ interior_image: '/images/titles/applynow.jpeg'
 ---
 
 ---
-<center><h2 style="color:#B082E0"> APPLICATION OPENS 01/18/2022 AND CLOSES 01/29/2022 AT 5:00 PM PST</h2> </center>
+<center><h2 style="color:#B082E0">  APPLICATION IS NOW OPEN AND CLOSES ON 01/29/2022 AT 5:00 PM PST</h2> </center>
 ---
 <center>
 <h2>Join the Shift Family 👨‍👩‍👦</h2>
@@ -26,7 +26,7 @@ interior_image: '/images/titles/applynow.jpeg'
 </div>
 
 <center>
-  <a style="margin-top: 20px; margin-bottom:20px; width:50%" href="http://eepurl.com/hPWW85" class="button button--large">Apply Now!</a>
+  <a style="margin-top: 20px; margin-bottom:20px; width:50%" href="https://forms.gle/1ax5UXQYUMs6TGFz9" class="button button--large">Apply Now!</a>
 </center>
 
 ---
@@ -36,14 +36,10 @@ interior_image: '/images/titles/applynow.jpeg'
 
 | <center> Event </center>| <center> Date </center> | <center> Location </center> 
 |----------------------|---------------|
-| <center> Info Session 1 </center> | <center> 01/26/2022 </center>| <center> Zoom* </center>
-| <center>  <span style="color:white">Info Session 2</span></center> | <center><span style="color:white">01/27/2022/08/2022</span>  </center>| <center><span style="color:white">Zoom*</span>  </center>
+| <center> Info Session 1 </center> | <center> 01/26/2022 </center>| <center><a href="https://usc.zoom.us/j/99710847055">Zoom</a></center>
+| <center>  <span style="color:white">Info Session 2</span></center> | <center><span style="color:white">01/27/2022/08/2022</span>  </center>| <center><span style="color:white"><a href="https://usc.zoom.us/j/95501771352">Zoom</a></span>  </center>
+| <center>  <span style="color:white">APPS DUE</span></center> | <center><span style="color:white">01/29/2022 5PM</span>  </center>| <center><span style="color:white"><a href="https://forms.gle/1ax5UXQYUMs6TGFz9">Apply here</a></span>  </center>
 | <center> Involvement Fair </center> | <center> 02/08/2022 </center>| <center> McCarthy Quad </center>
-| <center>  <span style="color:white">APPS DUE</span></center> | <center><span style="color:white">01/29/2022 5PM</span>  </center>| <center><span style="color:white"><a href="http://eepurl.com/hPWW85">Apply here</a></span>  </center>
-
-
-*Zoom links to be posted soon
-
 
 ----
 <div style="margin-top:60px" class="row">
