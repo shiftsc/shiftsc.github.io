@@ -28,7 +28,7 @@ interior_image: '/images/titles/applynow.jpeg'
 </div>
 
 <center>
-  <a style="margin-top: 20px; margin-bottom:20px; width:50%" href="https://forms.gle/1ax5UXQYUMs6TGFz9" class="button button--large">Apply Now!</a>
+  <a style="margin-top: 20px; margin-bottom:20px; width:50%" href="https://forms.gle/1ax5UXQYUMs6TGFz9" class="button button--large">APPLY NOW</a>
 </center>
 
 ---
@@ -38,10 +38,11 @@ interior_image: '/images/titles/applynow.jpeg'
 
 | <center> Event </center>| <center> Date </center> | <center> Location </center> 
 |----------------------|---------------|
-| <center> Info Session 1 </center> | <center> 01/26/2022 </center>| <center><a href="https://usc.zoom.us/j/99710847055">Zoom</a></center>
-| <center>  <span style="color:white">Info Session 2</span> </center> | <center><span style="color:white">01/27/2022/08/2022</span>  </center>| <center><span style="color:white"><a href="https://usc.zoom.us/j/95501771352">Zoom</a></span>  </center>
-| <center> APPS DUE </center> | <center> 01/29/2022 5PM </center>| <center> <a href="https://forms.gle/1ax5UXQYUMs6TGFz9">Apply here</a></center>
-| <center> <span style="color:white">Involvement Fair</span></center> | <center> <span style="color:white"> 02/08/2022 </span></center>| <center> <span style="color:white"> McCarthy Quad </span></center>
+| <center> Info Session 1 </center> | <center> Wed 1/26/2022 6-7PM </center>| <center><a href="https://usc.zoom.us/j/99710847055">Zoom</a></center>
+| <center>  <span style="color:white">Info Session 2</span> </center> | <center><span style="color:white">Thu 1/27/2022 6-7PM</span>  </center>| <center><span style="color:white"><a href="https://usc.zoom.us/j/95501771352">Zoom</a></span>  </center>
+| <center> APPS DUE </center> | <center> Sat 1/29/2022 @ 5PM </center>| <center> <a href="https://forms.gle/1ax5UXQYUMs6TGFz9">Apply here</a></center>
+
+<!-- | <center> <span style="color:white">Involvement Fair</span></center> | <center> <span style="color:white"> 02/08/2022 </span></center>| <center> <span style="color:white"> McCarthy Quad </span></center> -->
 
 ----
 <div style="margin-top:60px" class="row">
