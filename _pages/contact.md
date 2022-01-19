@@ -22,7 +22,7 @@ interior_image: '/images/titles/applynow.jpeg'
     <p style="max-width:700px">
       Shift is now recruiting for our Spring 2022 cohort! As a member of our first ever cohort, you will have an integral role in facilitating the beginning stages of our club’s presence on USC’s campus. 
       <br/><br/>
-      Look around our website to get a feel for the org, join our information sessions to hear from us personally, and send an application our way!
+      Look around our website to get a feel for the org, come through our information sessions to hear from us personally, and send an application our way!
     </p>
   </div>    
 </div>
