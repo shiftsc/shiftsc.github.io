@@ -7,7 +7,9 @@ interior_image: '/images/titles/applynow.jpeg'
 ---
 
 ---
-<center><h2 style="color:#B082E0">  APPLICATION IS NOW OPEN AND CLOSES ON 01/29/2022 AT 5:00 PM PST</h2> </center>
+<center><h2 style="color:#B082E0">  APPLICATION IS NOW LIVE</h2> </center>
+<br/>
+<center><h2 style="color:#B082E0">  APPS DUE SATURDAY, 1/29/2022 @ 5:00 PM PST</h2> </center>
 ---
 <center>
 <h2>Join the Shift Family 👨‍👩‍👦</h2>
