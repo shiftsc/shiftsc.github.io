@@ -18,7 +18,7 @@ During Shift SC's first semester in Fall 2021, it was just our little e-board wo
 
 More than anything, Shift is a group of students who care deeply about the intersection of people and technology and value friendships with others who feel the same.
 
-Creating a sense of <b style="color:#B082E0">commraderie</b> and genuine <b style="color:#B082E0">connection</b> is what we aim for. By joining our first cohort and becoming a Shiftie, you too can join in on the inside jokes and attend John's monthly Lorenzo bangers (BYOP) 
+Creating a sense of <b style="color:#B082E0">commraderie</b> and genuine <b style="color:#B082E0">connection</b> is what we aim for. By joining our first cohort and becoming a Shiftie, you too can join in on the inside jokes and attend John's monthly Lorenzo bangers (BYOP). Trust us, you won't want to miss them 
  <div class="gallery" data-columns="1">
     <img src="/images/socials/boba.jpeg">
     <img src="/images/socials/pumpkin_painting.jpg">
@@ -27,7 +27,7 @@ Creating a sense of <b style="color:#B082E0">commraderie</b> and genuine <b styl
   </div>
 
 ## But we also get down to business 💻
-Meet the e-board below! Each of us are passionate about human-centered and socially responsible technology for a slightly different reason and come from a different academic background, but we all come together under the umbrella of Shift SC to put on initiatives and build community.
+Meet the e-board below! Each of us are passionate about human-centered and socially responsible technology for a slightly different reason, but we all come together under the umbrella of Shift SC to put on initiatives and build community in the area that matters to us most.
 <br />
 
 ![Pie Chart](/images/members/pie.jpeg)
@@ -51,7 +51,7 @@ Meet the e-board below! Each of us are passionate about human-centered and socia
       <img src="/images/members/john.jpg" alt="John Heo" style="width:100%">
       <div class="container">
         <h3><center>John Heo</center></h3>
-        <b style="color:#B082E0"><center>[AI Ethics Curriculum Director]</center></b>
+        <b style="color:#B082E0"><center>[VP of Projects]</center></b>
         <p></p>
       </div>
     </div>

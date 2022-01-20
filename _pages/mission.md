@@ -19,9 +19,9 @@ First and foremost, Shift is a space for forming meaningful friendships with oth
 ###### 2. human-centeredness and social responsibility 📱
 At Shift, we challenge and grow our understanding of the often overlooked social issues stemming from tech.
 ###### 3. interdisciplinary approach 👥
-Shift breaks down silos by bringing together students from all disciplines—designers, policy makers, educators... the list goes on—to think more critically about technology.
+Shift breaks down silos by bringing together students from all disciplines—designers, policy makers, educators... the list goes on—to think more critically about technology and our role in shaping it. 
 ###### 4. campus-wide orientation 🏫
-Through a diverse range of [initiatives](/initiatives), we aim to create opportunities for *any and all students* at USC to engage with ideas related to human-centered and socially responsible tech. At the same time, we also host our own internal workshops and book clubs each semester to dive deeper into particular subfields of tech.
+Through a diverse range of [initiatives](/initiatives), we aim to create opportunities for *any and all students* at USC to engage with ideas related to human-centered and socially responsible tech. At the same time, we also host our own internal workshops and book clubs each semester to dive deeper into particular subfields.
 
 --- 
 
@@ -43,7 +43,7 @@ well-being 🙂 at the <b style="color:#B082E0">center</b>
 
 ---
 
-You might have heard of other awesome tech4good clubs on campus like CAIS++ or Code the Change. Shift SC is unique in a few ways: rather than focusing on "social good", we care specifically about the ethics, human values, and social responsibility within tech. Rather than building new products, we put on campus-wide inititatives and host internal discussions. And rather than leaning towards engineers and makers, we're composed of students of all backgrounds and skillsets.
+You might have heard of other awesome tech4good clubs on campus like CAIS++ or Code the Change. Shift SC is unique in a few ways: rather than focusing on social good broadly, we care specifically about the ethics, human values, and social responsibility within tech. Rather than building new products, we put on campus-wide inititatives and host internal discussions. And rather than leaning towards engineers and makers, we're composed of students of all backgrounds and skillsets.
 
 In this way, Shift provides a balance to the innovation & tech hype at USC. There's Spark SC and Sigma Eta Pi with their entrepreunerial spirit, there's Makers and LavaLab which focus on building products, and then there's Shift SC, oriented towards how all the innovating and building actually affects individuals and society as a whole.
 
@@ -52,8 +52,8 @@ ___
 #### What exactly are these social implications and ethical issues of tech, anyway? 
 Some areas we care about:
 
-- **Attention Economy**
 - **Ubiquitous Algorithms** 
+- **Attention Economics**
 - **Gene Editing Technology**
 - **AI Governance & Regulation**
 - **Data Privacy Rights**
