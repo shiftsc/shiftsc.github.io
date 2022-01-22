@@ -3,7 +3,7 @@ layout: page
 title: 'STS Lab'
 subtitle: ''
 date: 2021-11-20 00:00:00
-description: 'A research team that uses scientific and humanistic methods to examine the impacts of technology humans.'
+description: 'A research team that uses scientific and humanistic methods to examine the impacts of technology on humans.'
 featured_image: '/images/initiatives/sts-lab/usc_cs.jpg'
 ---
 ----
