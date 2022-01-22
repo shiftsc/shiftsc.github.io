@@ -1,7 +1,7 @@
 ---
 title: 'The Shiftie Experience'
 date: 2021-12-11 00:00:00
-description: Interested in joining the next cohort? Hear from Rachel.Amir about what your first semester as a Shiftie could look like 👀
+description: Interested in joining the next cohort? Hear from Rachel.Amir about what becoming a Shiftie is all about 👀
 author: Rachel.Amir Chatman
 featured_image: '/images/socials/experience.jpg'
 interior_image: '/images/socials/experience.jpg'

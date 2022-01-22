@@ -4,7 +4,7 @@ date: 2021-10-19 00:00:00
 description: John gives a breakdown of what Shift's core values really mean ⬇️
 author: John Heo
 featured_image: '/images/members/johnadam.JPG'
-interior_image: '/images/swirl-logo/swirly-gray-3.png'
+interior_image: '/images/swirl-logo/swirly-gray-2.png'
 ---
 
 Human-Centered and Socially Responsible Technology.
