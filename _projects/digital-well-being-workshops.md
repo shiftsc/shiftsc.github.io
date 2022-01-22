@@ -3,7 +3,7 @@ layout: page
 title: 'Digital Well-Being Workshops'
 subtitle: ''
 date: 2021-11-21 00:00:00
-description: 'Interactive workshops full of round-table discussion and reflection to help us build a better relationship with social media and our personal devices.'
+description: 'Interactive workshops full of reflection and discussion on how we can build healthier relationships with social media and our personal devices.'
 featured_image: 'images/initiatives/digital-well-being-workshops/chely.jpg'
 ---
 ![Picc](/images/initiatives/digital-well-being-workshops/adam.jpg)
