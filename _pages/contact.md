@@ -34,13 +34,12 @@ interior_image: '/images/titles/applynow.jpeg'
 ---
 
 
-## Recruitment Timeline 📅
+## Recruitment Events 📅
 
 | <center> Event </center>| <center> Date </center> | <center> Location </center> 
 |----------------------|---------------|
-| <center> Info Session 1 </center> | <center> Wed 1/26/2022 6-7PM </center>| <center><a href="https://usc.zoom.us/j/99710847055">Zoom</a></center>
-| <center>  <span style="color:white">Info Session 2</span> </center> | <center><span style="color:white">Thu 1/27/2022 6-7PM</span>  </center>| <center><span style="color:white"><a href="https://usc.zoom.us/j/95501771352">Zoom</a></span>  </center>
-| <center> APPS DUE </center> | <center> Sat 1/29/2022 @ 5PM </center>| <center> <a href="https://forms.gle/1ax5UXQYUMs6TGFz9">Apply here</a></center>
+| <b><center> Info Session </center></b> | <b><center> Wed 1/26/2022 6-7PM </center></b>| <center><a href="https://usc.zoom.us/rec/share/7AYB08xtcE4jy62p1Gbqdfv61ZiTpe9k8OZ3GUgZXMOHoy5hL4zIbDjle5OHRegG.pPNu_1cY4ZGv6eq5?startTime=1643248986000">Click to Watch Recording</a></center>
+| <b style="color:#FFFFFF"><center> APPS DUE </center></b> | <b style="color:#FFFFFF"><center> Sat 1/29/2022 @ 5PM </center></b>| <center> <a href="https://forms.gle/1ax5UXQYUMs6TGFz9">Apply here</a></center>
 
 <!-- | <center> <span style="color:white">Involvement Fair</span></center> | <center> <span style="color:white"> 02/08/2022 </span></center>| <center> <span style="color:white"> McCarthy Quad </span></center> -->
 
