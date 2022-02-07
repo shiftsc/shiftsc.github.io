@@ -16,7 +16,7 @@ menu_settings:
       url: '/initiatives'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'APPLY NOW'
+    - title: 'Contact Us'
       url: '/contact'
 
 footer_settings:
